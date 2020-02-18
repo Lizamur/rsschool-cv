@@ -1,0 +1,71 @@
+
+.wrapper {
+  background-color: white;
+  margin: 0 auto;
+  max-width: 1024px;
+  min-width: 680px;
+}
+.avatar {
+  float: right;
+  width: 210px;
+  height: 210px;
+  background-color: lightgray;
+  padding: 20px;
+
+}
+
+header {
+  background-color: lightgray;
+  background-position: center;
+  margin: 100px;
+  height: 250px;
+  margin: 100px;
+  padding: 20PX;
+}
+
+h1 {
+  color: Tomato;
+  margin-left: 20px;
+}
+
+p, li {
+  color: Tomato;
+}
+h2 {
+  color: gray;
+  margin-left: 20px;
+}
+main {
+  display: block;
+  text-align: center;
+}
+.main {
+  background-color: rgba(255, 99, 71, 0.5);
+  color: gray;
+  margin: 20px;
+}
+/*.nav {
+  float: none;
+  background-color: Tomato;
+  color: white;
+  border-left: 6px solid red;
+  margin: 20px;
+}*/
+.skills {
+  list-style-position: inside;
+}
+a:link {
+  color: Tomato;
+}
+
+a:visited {
+  color: Gray;
+}
+img {
+width: 20px;
+height: 20px;
+}
+footer{
+  display: inline;
+    margin-left: 48%;
+}
